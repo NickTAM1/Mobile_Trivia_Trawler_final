@@ -48,7 +48,7 @@ Uses Open Trivia Database: https://opentdb.com/api.php?amount=10&type=boolean
 
 ## Git
 
-https://github.com/NickTAM1/Trivia-Trawler-final.git
+https://github.com/NickTAM1/Mobile_Trivia_Trawler_final.git
 
 ## Snack expo
 
