@@ -45,3 +45,11 @@ A fishing-themed True/False trivia game built with React Native (Expo).
 ## API
 
 Uses Open Trivia Database: https://opentdb.com/api.php?amount=10&type=boolean
+
+## Git
+
+https://github.com/NickTAM1/Trivia-Trawler-final.git
+
+## Snack expo
+
+https://snack.expo.dev/@nicktam12/a3
