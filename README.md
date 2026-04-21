@@ -18,9 +18,9 @@ A fishing-themed True/False trivia game built with React Native (Expo).
 
 ## Screens
 
-- **Game** — main trivia gameplay
-- **Sensors** — live sensor debug screen with on/off toggle
-- **Login** — register, log in, and log out
+- **Game**: main trivia gameplay
+- **Sensors**: live sensor debug screen with on/off toggle
+- **Login**: register, log in, and log out
 
 ## Tech Stack
 
